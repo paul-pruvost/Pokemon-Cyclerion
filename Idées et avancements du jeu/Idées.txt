@@ -1,0 +1,48 @@
+POKEMON CYCLERION
+
+LEGENDAIRES : 
+	- AETHERION, régule les saisons. TYPE : DRAGON FEE
+	- CHAORION, Pokémon du chaos. TYPE : DRAGON TENEBRE
+	
+	- SPRINIS : gardien du printemps. TYPE : PLANTE FEE. ANTRE : un jardin fleuri avec rivières.
+	- SUMMIS : gardien de l'été. TYPE : FEU DRAGON. ANTRE : un volcan.
+	- AUTIS: gardien de l'automne. TYPE : EAU SPECTRE. ANTRE : une forêt d'arbre sans feuilles, marécageux.
+	- WINTIS: gardien de l'hiver. TYPE : GLACE PSY. ANTRE : cave glacée à la manière d'ARTIKODIN.
+
+Si l'un des 4 légendaires disparaît, AETHERION ne pourra plus transitionner une saison vers celle du gardien disparu. Causant d'innombrables catastrophes naturelles et mettant en péril la vie des êtres vivants.
+C'est pourquoi AETHRION existe, il est le gardien des 4 saisons, il interviendra alors si un gardien manque à l'appel. Et à l'inverse, les 4 gardiens interviennent si AETHRION ne peut pas remplir son devoir.
+
+HISTOIRE DE LA REGION :
+	Il y a 60 ans, AETHERION a sauvé la région de la plus grande catastrophe naturelle (Eruption volcanique -> Tremblement de terre -> Tsunami -> Vent Violent -> Ouragan) ce qui lui a couté très cher au vue de la gravité de la catastrophe. Il a alors puisé une grande partie de sa force vitale et a été contraint de se retirer dans son habitat pour se reposer. Les 4 gardiens ont érigé une barrière protectrice autour de son habitat et depuis, personne ne l'a vu et les gardiens se partagent les taches d'AETHERION en attendant son retour ce qui explique leurs interventions lors des perturbations climatiques. 
+
+HISTOIRE DU JEU:
+	Tu es un jeune dresseur/dresseuse de Valora qui commence son aventure classique : obtenir les badges, affronter la Ligue. Tu es accompagné par ton rival (du sexe opposé à toi)
+Mais rapidement, tu découvres des perturbations climatiques étranges : ouragan, sécheresse, inondations, tempête de neige/grêle.
+La première perturbation se déclenche à la route 1/2, une flaque d'eau qui s'évapore soudainement. Les perturbations seront progressivement plus spectaculaires.
+
+Derrière tout ça se cache l’organisation Obscura, qui cherche à contrôler un ancien Pokémon légendaire vivant dans la région pour instaurer un climat éternel unique.
+Pour contrôler AETHERION, la team Obscura découvre qu'il faut d'abord contrôler les 4 légendaires des saisons (qui peuvent ouvrir individuellement une brèche dans la barrière d'AETHERION) car ceux-ci ont le pouvoir, ensemble, de contrôler AETHERION.
+Elle créera alors quelques perturbations climatiques "mineures" afin d'attirer les légendaires, forcera leur capture (grâce à une ball spéciale) et ensuite parviendra jusqu'à AETHERION.
+AETHERION n'interviendra pas lors des captures des 4 légendaires à cause de son repos forcé et vital, il n'interviendra qu'en cas d'ultime recours, c'est à dire si les 4 gardiens sont capturés.
+En attendant, dès la capture forcée d'un légendaire des saisons, des catastrophes naturelles apparaitront et tu devras y mettre un terme "temporairement" (il n'y aura pas besoin en réalité d'y mettre fin plusieurs fois) pour continuer l'aventure.
+Pour calmer temporairement une catastrophe naturelle, tu devras "réaligner" le pouvoir du légendaire dans son antre respectif (reflétant la saison qu'il garde) car en le capturant de force, son pouvoir est déséquilibré, libérant leur pouvoir de manière disproportionnée.
+Une fois les 4 pouvoirs rééquilibrés, tu pourras t'attaquer à la team Obscura, libérer les légendaires et tenter des les capturer par la suite (il faudra capturer les 4 légendaires avant d'atteindre une deuxième fois AETHERION).
+AETHERION ne sera quant à lui pas capturable avant la fin du post-game.
+
+BACKGROUND FAMILIAL (TWISTS) :
+	Ta famille est directement impliquée par les agissement de la team Obscura car ton grand père, avec le professeur, ont fondé la team Obscura il y a 50 ans lors de la grande catastrophe (qui en réalité était causé par eux et leurs expérimentations). Leur but a cette epoque était une simple quête de pouvoir mais depuis cette catastrophe, ton grand père et le professeur ont pris conscience de la gravité de leurs actes et se sont repentis. Mais le troisième membre fondateur d'Obscura (en réalité le grand père du rival) ne voulait pas s'arrêter là. Il a alors entrepris cette quête de pouvoir seul. Quelques années après la grande catastrophe, le père du rival, encore jeune, apprend cette histoire auprès de sa grand mère et lui explique qu'autrefois ils étaient prospère grâce à leur vigne. Il a donc grandi en tant que victime de cette catastrophe. C'est à ce moment que débute le BACKGROUND DE LA TEAM OBSCURA. 
+
+BACKGROUND DE LA TEAM OBSCURA :
+	Le leader de la team Obscura souhaite contrôler les saisons car il est persuadé que le réchauffement climatique est causé par les manquements des 5 légendaires. Il se préoccupe beaucoup du réchauffement climatique car étant petit il vivait dans une famille de vigneron prospère mais depuis l'accélération du réchauffement climatique, les récoltes ont beaucoup diminué arrivant à un point où la famille avait du mal à se nourrir et boucler les fins de mois. En cause, les sécheresses à rallonge et les feux de forêts de plus en plus fréquents. Il a spéculé sur le fait que cela devait être à cause d'AETHERION et les gardiens, se mettant alors en tête de les capturer d'une manière ou d'une autre pour que cela s'arrête en contrôlant leurs pouvoirs. Pour lui, ils ont manqué à leur devoir et pense que les saisons devraient désormais être régulées par les humains. Il rejette toute faute humaine dans l'accélération du réchauffement climatique et nie les impacts de la révolution industrielle.
+
+POST-GAME : 
+	Après les derniers évènements de la team Obscura, un mystérieux Pokémon légendaire fait son apparition en réponse à leurs agissements. Les perturbations climatiques ont attiré CHAORION, le légendaire symbolisant le chaos.
+	Il causera alors des dérèglements de saison (en les rallongeant ou raccourcissant). La team Obscura aura l'idée d'essayer de le capturer afin de s'opposer à AETHERION une bonne fois pour toute, ce qu'ils parviendront à faire. Tu devras alors arrêter une ultime fois la team Obscura grâce à l'aide d'AETHERION qui rejoindra temporairement ton équipe lors du combat final contre le leader accompagné de CHAORION. Une fois la team Obscura vaincue de nouveaux, elle se retirera pour de bon et CHORION reconnaîtra ta force et te laissera l'affronter tandis qu'AETHERION t'attendra dans son habitat. Après la capture d'AETHERION et CHAORION tu seras alors le maître des saisons, te conférant ainsi le pouvoir de calmer les dernières perturbations climatiques. Si tu parviens à toutes les calmer, le professeur te donner le charme chroma.
+
+PERSONNAGES:
+	Hero: Tu es le héro du jeu, tu suivras une aventure classique.
+	Rival: Ton rival est le petit fils du professeur Hyacinth et le fils de l'actuel leader de Obscura (il ne le sait pas).
+	Hyacinth: Le professeur du jeu, il te donnera le pokedex et les premires pokeball.
+	Homme mystérieux: Il sera ton guide à travers le jeu, peu avant la fin il te revellera son identité (ton grand pere).
+	Leader d'Obscura: Pere du rival, il cherchera les gardiens de Valora tout au long de ton aventure et réussira a les capturer.
+	

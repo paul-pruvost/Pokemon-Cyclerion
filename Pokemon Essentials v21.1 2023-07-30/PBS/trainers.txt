@@ -1,0 +1,169 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Willowrise Town
+#-------------------------------
+[RIVAL1,Orion]
+LoseText = What a surprise ! Better train my luck also.
+Pokemon = RIOLU,4
+    Moves = FORCEPALM,TACKLE,DEFENSECURL
+    IV = 15,15,15,15,15,15
+#-------------------------------
+# Route 1
+#-------------------------------
+[CAMPER,Liam]
+LoseText = Pfff... go away.
+Pokemon = SHINX,3
+Pokemon = TAILLOW,3
+#-------------------------------
+[LASS,Emily]
+LoseText = Aww, my cuties couldn't keep up...
+Pokemon = BUNEARY,4
+Pokemon = BUDEW,3
+#-------------------------------
+[BUGCATCHER,Oliver]
+LoseText = Oh no... my bugs lost again...
+Pokemon = CATERPIE,4
+Pokemon = LEDYBA,4
+Pokemon = SPINARAK,4
+#-------------------------------
+# Route 2
+#-------------------------------
+[YOUNGCOUPLE,Lily & Milo]
+LoseText = The seasons aren’t on my side today…
+Pokemon = BUDEW,7
+Pokemon = HOPPIP,7
+Pokemon = SENTRET,7
+Pokemon = NINCADA,7
+#-------------------------------
+# Bramblepath Forest
+#-------------------------------
+[BUGCATCHER,Noah]
+LoseText = Oh no... my bugs slipped right out of the net...
+Pokemon = WURMPLE,6
+Pokemon = VENIPEDE,7
+#-------------------------------
+[LASS,Clara]
+LoseText = Oh... I guess charm isn't everything.
+Pokemon = BUDEW,7
+Pokemon = HOOTHOOT,8
+#-------------------------------
+[CAMPER,Mathis]
+LoseText = Huh?! But... the book said it always works!
+Pokemon = ZIGZAGOON,9
+#-------------------------------
+[TEAMOBSCURA_M,Grunt,1]
+LoseText = Ngh... My darkness faded too quickly...
+Pokemon = PURRLOIN,8
+Pokemon = VENIPEDE,9
+#-------------------------------
+[TEAMOBSCURA_F,Grunt,2]
+LoseText = What?! My gloom wasn’t enough?!
+Pokemon = STUNKY,9
+Pokemon = MURKROW,10
+#-------------------------------
+[TEAMOBSCURA_M,Grunt,3]
+LoseText = Impossible... How did you pierce the dark?!
+Pokemon = GASTLY,9
+Pokemon = SPINARAK,10
+#-------------------------------
+[TEAMOBSCURA_F,Grunt,4]
+LoseText = Ugh... snuffed out so easily?!
+Pokemon = ZUBAT,8
+Pokemon = HOUNDOUR,10
+#-------------------------------
+[TEAMOBSCURA_M,Selene]
+LoseText = Impossible... How could a mere kid stand against Obscura?!
+Pokemon = PURRLOIN,11
+Pokemon = HOUNDOUR,12
+Pokemon = MURKROW,12
+#-------------------------------
+# Route 3
+#-------------------------------
+[TWINS,Lily & Ana]
+LoseText = Oh no... we lost at the same time?!
+Pokemon = PLUSLE,11
+Pokemon = MINUN,11
+BattleBGM = Battle trainer
+#-------------------------------
+[YOUNGSTER,Owen]
+LoseText = Guess I still need more training...
+AfterBattleText = One day, I’ll be the strongest on this whole route!
+Pokemon = SHINX,12
+Pokemon = STARLY,13
+BattleBGM = Battle trainer
+#-------------------------------
+[LASS,Mia]
+LoseText = Aww... I wilted faster than the flowers...
+Pokemon = ROSELIA,13
+BattleBGM = Battle trainer
+#-------------------------------
+[CAMPER,Ethan]
+LoseText = Whoa... you really beat us down!
+Pokemon = SANDSHREW,14
+BattleBGM = Battle trainer
+#-------------------------------
+# Driftshore City
+#-------------------------------
+[SWIMMER_M,Lucas]
+LoseText = Whoa... you’re a strong swimmer!
+Pokemon = BUIZEL,12
+Pokemon = POLIWAG,13
+BattleBGM = Battle trainer
+#-------------------------------
+[SWIMMER_F,Naomi]
+LoseText = My elegance has sunk...
+Pokemon = WINGULL,13
+Pokemon = FINNEON,14
+BattleBGM = Battle trainer
+#-------------------------------
+[FISHERMAN,Ray]
+LoseText = Gah, they slipped right off the hook!
+Pokemon = BARBOACH,14
+BattleBGM = Battle trainer
+#-------------------------------
+[SAILOR,Grant]
+LoseText = Oof... Guess I capsized this time.
+AfterBattleText = You’re like a tidal wave—can’t be stopped!
+Pokemon = CORPHISH,14
+Pokemon = PSYDUCK,15
+BattleBGM = Battle trainer
+#-------------------------------
+[LEADER_Marina,Marina]
+LoseText = Amazing... You kept your balance even against my waves...
+Pokemon = HORSEA,15
+Pokemon = DEWOTT,16
+Pokemon = LOMBRE,17
+BattleBGM = Battle leader
+#-------------------------------
+# Route 4
+#-------------------------------
+[BUGCATCHER,Elliot]
+LoseText = Ack... My bugs weren’t ready for this!
+Pokemon = LEDYBA,15
+Pokemon = COMBEE,16
+BattleBGM = Battle trainer
+#-------------------------------
+[HIKER,Bruno]
+LoseText = Huff... Guess I ran out of breath...
+Pokemon = GEODUDE,15
+Pokemon = ARON,17
+BattleBGM = Battle trainer
+#-------------------------------
+[CAMPER,Josh]
+LoseText = Guess I should’ve brought more supplies...
+Pokemon = SANDSHREW,16
+Pokemon = MACHOP,16
+BattleBGM = Battle trainer
+#-------------------------------
+[BLACKBELT,Ryo]
+LoseText = My fists weren’t enough this time...
+Pokemon = MAKUHITA,15
+Pokemon = CROAGUNK,16
+BattleBGM = Battle trainer
+#-------------------------------
+[CRUSHKIN,Ryan & Elena]
+LoseText = Ryan: Grr... / Elena: Our powers weren’t enough...
+Pokemon = MACHOP,15
+Pokemon = MEDITITE,16
+Pokemon = ABRA,15
+BattleBGM = Battle trainer

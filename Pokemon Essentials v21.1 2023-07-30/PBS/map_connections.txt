@@ -1,0 +1,30 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Willowrise Town (22) - Route 1 (2)
+22,North,12,2,South,0
+# Route 6 (44) - Cedolan City (7)
+44,East,0,7,West,5
+# Lerucean Town (23) - Cedolan City (7)
+23,West,78,7,East,0
+# Route 2 bis (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 bis (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 7 (47) - Route 2 bis (21)
+47,West,0,21,East,77
+# Route 3bis (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Ingido Plateau outside (35) - Route 3bis (31)
+35,East,10,31,West,0
+# Route 4 (39) - Ingido Plateau outside (35)
+39,East,0,35,West,11
+# Route 5 (41) - Route 4 Cycling Road (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 Cycling Road (45)
+41,South,6,45,North,0
+# Battle Frontier (52) - Route 7 (47)
+52,West,0,47,East,8
+# Driftshore City (86) - Route 3 (85)
+86,East,19,85,West,0
